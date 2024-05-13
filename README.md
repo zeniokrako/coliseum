@@ -23,7 +23,7 @@ _**Zerostress vs TB - Saturday 18th 7pm**_
 
 - Shing, Ducky, Hangman, Shanni - Mod team
 - [LpeX](https://www.twitch.tv/mrlpex) - Admin/Sometimes Streamer
-- [Chai](https://www.twitch.tv/chai) - Streamer
+- [Chai](https://www.twitch.tv/chai) - Streamer/Hypeman
 - xtramint - Beefmaster
 - db2 - Spectator
 
