@@ -14,3 +14,12 @@ frfr vs **gigas**
 
 eventually we'll move stuff here
 [Fight History](HISTORY.md)
+
+## STAFF MEMBER
+
+Shing, Ducky, Hangman, Shanni - Mod team
+Lpex - Admin/Sometimes Streamer
+Chai - Streamer
+xtramint - Ideas Guy
+db2 - Spectator
+
