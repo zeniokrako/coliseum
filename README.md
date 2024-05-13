@@ -27,3 +27,5 @@ _**Zerostress vs TB - Saturday 18th 7pm**_
 - xtramint - Beefmaster
 - db2 - Spectator
 
+## Banner ##
+![the banner](scrote.png)
