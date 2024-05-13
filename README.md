@@ -1,19 +1,23 @@
-# OCE Coliseum!
+# OCE Coliseum BEEFS
 
-Rule 1 : Fights are to the death
+Rule 1 : **No Show** - Must be present in the channel between 2-10 mins before. 
 
-Rule 2 : Winners will have to marry the emperor
+Rule 2 : **Format** - FT10 and must change stage every 5 games.
 
-## Fight History
+Rule 3 : **Stage Change** - Can change character if they have recently lost a game.
 
-Amro vs **2Bar**
+## Rewards/Punishments
 
-frfr vs **gigas**
+- Loser role for losers
+- Winner role for winners
+- Winner gets a point on the leaderboard and loser gets a -1 point (still being debated)
 
-.. someone fill in the rest
+## Upcoming Beef
 
-eventually we'll move stuff here
-[Fight History](HISTORY.md) [Leaderboard](https://challonge.com/OCEDiscordBEEF)
+_**Zerostress vs TB - Saturday 18th 7pm**_
+
+- [Previous Beefs](HISTORY.md) 
+- [Leaderboard](https://challonge.com/OCEDiscordBEEF)
 
 ## STAFF MEMBER / KNOWN ENTITIES ##
 
