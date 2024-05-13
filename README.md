@@ -22,8 +22,8 @@ _**Zerostress vs TB - Saturday 18th 7pm**_
 ## STAFF MEMBER / KNOWN ENTITIES ##
 
 - Shing, Ducky, Hangman, Shanni - Mod team
-- Lpex - Admin/Sometimes Streamer
-- Chai - Streamer
+- [LpeX](https://www.twitch.tv/mrlpex) - Admin/Sometimes Streamer
+- [Chai](https://www.twitch.tv/chai) - Streamer
 - xtramint - Beefmaster
 - db2 - Spectator
 
