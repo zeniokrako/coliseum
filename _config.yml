@@ -4,8 +4,10 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 include:
   - README.md
 title: 'OCE Tekken Coliseum'
 description: 'Fostering (hopefully wholesome) beef in Oceania'
+github:
+  is_project_page: false
