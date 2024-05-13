@@ -17,9 +17,9 @@ eventually we'll move stuff here
 
 ## STAFF MEMBER
 
-Shing, Ducky, Hangman, Shanni - Mod team
-Lpex - Admin/Sometimes Streamer
-Chai - Streamer
-xtramint - Ideas Guy
-db2 - Spectator
+- Shing, Ducky, Hangman, Shanni - Mod team
+- Lpex - Admin/Sometimes Streamer
+- Chai - Streamer
+- xtramint - Ideas Guy
+- db2 - Spectator
 
