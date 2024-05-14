@@ -4,7 +4,7 @@ Rule 1 : **No Show** - Must be present in the channel between 2-10 mins before.
 
 Rule 2 : **Format** - FT10 and must change stage every 5 games.
 
-Rule 3 : **Stage Change** - Can change character if they have recently lost a game.
+Rule 3 : **Character Change** - Can change character if they have recently lost a game.
 
 ## Rewards/Punishments
 
