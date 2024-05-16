@@ -10,7 +10,7 @@ Rule 3 : **Character Change** - Can change character if they have recently lost 
 
 - Loser role for losers
 - Winner role for winners
-- Winner gets a point on the leaderboard and loser gets a -1 point (still being debated)
+- Winner gets a point on the leaderboard and loser gets a -1 point
 
 ## Upcoming Beef
 
