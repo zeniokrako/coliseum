@@ -18,6 +18,8 @@ _**Zerostress vs TB - Saturday 18th 7pm**_
 
 - [Previous Beefs](HISTORY.md) 
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
+- [OCE Tekken Discord](https://discord.gg/HHs95kTMSn) <- this is where things happen
+- [Official Coliseum Theme Song](https://www.youtube.com/watch?v=pDg6rCHgoHQ)
 
 ## STAFF MEMBER / KNOWN ENTITIES ##
 
