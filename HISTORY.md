@@ -11,3 +11,5 @@
 5. Sock vs _**Dripmaster**_
     
 6. _**WakiZashi**_ vs Zer0kZero
+
+7. _**XitzMeNickyX**_ vs Gigas
