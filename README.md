@@ -19,7 +19,7 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 
 ## Upcoming Beef
 
-_**Zerostress vs TB - Saturday 18th 7pm**_
+_**Zerostress vs TB - Saturday 18th 7pm**_ (NO SHOW :( )
 
 - [Previous Beefs](HISTORY.md) 
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
