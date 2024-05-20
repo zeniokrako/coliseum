@@ -19,7 +19,7 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 
 ## Upcoming Beef
 
-_**Zerostress vs TB - Saturday 18th 7pm**_ (NO SHOW :( )
+_**Dripmaster vs Dangerous_Ace**_ live now
 
 - [Previous Beefs](HISTORY.md) 
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
