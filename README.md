@@ -31,6 +31,7 @@ _**Dripmaster vs Dangerous_Ace**_ live now
 - [LpeX](https://www.twitch.tv/mrlpex) - Admin/Sometimes Streamer
 - [Chai](https://www.twitch.tv/chai) - Streamer/Hypeman
 - xtramint - Beefmaster
+- Dangerous_Ace - Court Artiste
 - db2 - Spectator
 
 ## Banner ##
