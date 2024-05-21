@@ -19,7 +19,7 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 
 ## Upcoming Beef
 
-_**Dripmaster vs Dangerous_Ace**_ live now
+Xtramint vs BAK_PAK (not sure when)
 
 - [Previous Beefs](HISTORY.md) 
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
