@@ -19,6 +19,8 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 
 ## Upcoming Beef
 
+zerostresslevel vs TB (may 23rd, sometimes 7-8pm or something)
+
 Xtramint vs BAK_PAK (not sure when)
 
 - [Previous Beefs](HISTORY.md) 
@@ -30,8 +32,9 @@ Xtramint vs BAK_PAK (not sure when)
 - Shing, Ducky, Hangman, Shanni - Mod team
 - [LpeX](https://www.twitch.tv/mrlpex) - Admin/Sometimes Streamer
 - [Chai](https://www.twitch.tv/chai) - Streamer/Hypeman
-- xtramint - Beefmaster
 - Dangerous_Ace - Court Artiste
+- xtramint - Beefmaster
+- zerostresslevel - Village Tomato
 - db2 - Spectator
 
 ## Banner ##
