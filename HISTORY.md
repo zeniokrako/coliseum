@@ -12,6 +12,12 @@
     
 6. _**WakiZashi**_ vs Zer0kZero
 
+7. **Dripmaster** vs Dangerous_Ace
+
+8. Wakizashi vs **Shinigginaz**
+
+   ![waki vs shin](waki_vs_shin.png)
+
 # No Shows
 ZeroStressLevel vs TB (zero fell asleep and woke up at 4am)
 
