@@ -1,8 +1,8 @@
 # OCE Coliseum BEEFS
 
-Rule 1 : **No Show** - Must be present in the channel between 2-10 mins before.
+Rule 1 : **No Show** - Must be present in the channel between 2-10 mins before. (If not..)
 
-Rule 2 : **Format** - FT10 and must change stage every 5 games.
+Rule 2 : **Format** - FT10 and stage change (depends on whoever sets up the lobby)
 
 Rule 3 : **Character Change** - Can change character if they have recently lost a game.
 
@@ -20,8 +20,10 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 ## Upcoming Beef
 
 zerostresslevel vs TB (may 23rd, sometimes 7-8pm or something)
+![zero_vs_tb](zero_vs_tb_2.png)
 
 Xtramint vs BAK_PAK (not sure when)
+![xtra vs bakpak](xtramint_vs_bakpak.png)
 
 - [Previous Beefs](HISTORY.md) 
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
