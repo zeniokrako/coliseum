@@ -12,10 +12,10 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 [Official Coliseum Theme Song](https://www.youtube.com/watch?v=pDg6rCHgoHQ)
 
 ## Rewards/Punishments
-
-- Loser role for losers
-- Winner role for winners
-- Winner gets a point on the leaderboard and loser gets a -1 point
+(new rules starting may 24th)
+- Loser role for losers. Double loser role if you lost while you have the loser role
+- Winner role for winners (and losers who won a match). Double winner roles
+- Winner gets two points on the leaderboard and loser gets a -1 point
 
 ## Upcoming Beef
 
