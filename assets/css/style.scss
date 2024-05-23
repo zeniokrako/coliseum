@@ -21,8 +21,8 @@ body::before {
     bottom: 0;
     left: 0;
     z-index: 1000; /* Ensure it appears above other content */
-    width: 50px; /* Adjust size as needed */
+    width: 70px; /* Adjust size as needed */
     height: 50px; /* Adjust size as needed, maintain aspect ratio */
-    background: url('Chaipoint.png') no-repeat;
+    background: url('/Chaipoint.png') no-repeat;
     background-size: contain;
 }
