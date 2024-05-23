@@ -37,7 +37,7 @@ Xtramint vs BAK_PAK (not sure when)
 - Dangerous_Ace - Court Artiste
 - xtramint - Beefmaster
 - zerostresslevel - Village Tomato
-- db2 - Spectator
+- db2 - Just there watching
 
 ## Banner ##
 ![the banner](scrote.png)
