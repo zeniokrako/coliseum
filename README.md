@@ -6,7 +6,7 @@ Rule 2 : **Format** - FT10 and stage change (depends on whoever sets up the lobb
 
 Rule 3 : **Character Change** - Can change character if they have recently lost a game.
 
-Rule 4 : **Announcing** - Must announce the match at the coliseum channel (in the discord). Both parties must agree to it being a coliseum match.
+Rule 4 : **When is it a coliseum match?** - Announced on the channel (ping mods) at least 1 day before, OR if it was casted (e.g ad-hoc impulsive on stream challenges), but do let us know on the discord channel for record keeping purposes
 
 Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn), 
 [Official Coliseum Theme Song](https://www.youtube.com/watch?v=pDg6rCHgoHQ)
