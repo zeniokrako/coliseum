@@ -51,6 +51,7 @@ Xtramint vs BAK_PAK (not sure when)
 - zerostresslevel - Village Tomato
 - db2 - Just there watching
 - bpg111 - oooooooooooooooooo
+- dripmaster - yellow rank
 
 ## Banner ##
 ![the banner](scrote.png)
