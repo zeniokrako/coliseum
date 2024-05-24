@@ -31,7 +31,7 @@ Xtramint vs BAK_PAK (not sure when)
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
 
 ## WEIGHT CLASSES (Tekken Prowess)
-(by zer0kzero)
+(by zer0kzero and chat)
 
     Heavyweight: 300k+
     Cruiserweight: 240k-299k
