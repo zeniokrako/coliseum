@@ -20,9 +20,11 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 ## Upcoming Beef
 
 Wo vs Doink
+
 ![wo vs doink](https://cdn.discordapp.com/attachments/1235275627201040524/1243387532822052894/image.png?ex=66514a60&is=664ff8e0&hm=0186a3313c8233fe5e43260de18c267810cd76fa836f03a87f0b2a9978a47d70&)
 
 Xtramint vs BAK_PAK (not sure when)
+
 ![xtra vs bakpak](xtramint_vs_bakpak.png)
 
 - [Previous Beefs](HISTORY.md) (I will make a script to automate these, these will be out of date for a bit)
