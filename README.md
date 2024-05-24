@@ -14,18 +14,18 @@ Links: [OCE Tekken Discord](https://discord.gg/HHs95kTMSn),
 ## Rewards/Punishments
 (new rules starting may 24th)
 - Loser role for losers. Double loser role if you lost while you have the loser role
-- Winner role for winners (and losers who won a match). Double winner roles
+- Winner role for winners (and losers who won a match). Double winner roles not decided yet
 - Winner gets two points on the leaderboard and loser gets a -1 point
 
 ## Upcoming Beef
 
-zerostresslevel vs TB (may 23rd, sometimes 7-8pm or something)
-![zero_vs_tb](zero_vs_tb_2.png)
+Wo vs Doink
+![wo vs doink](https://cdn.discordapp.com/attachments/1235275627201040524/1243387532822052894/image.png?ex=66514a60&is=664ff8e0&hm=0186a3313c8233fe5e43260de18c267810cd76fa836f03a87f0b2a9978a47d70&)
 
 Xtramint vs BAK_PAK (not sure when)
 ![xtra vs bakpak](xtramint_vs_bakpak.png)
 
-- [Previous Beefs](HISTORY.md) 
+- [Previous Beefs](HISTORY.md) (I will make a script to automate these, these will be out of date for a bit)
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
 
 
