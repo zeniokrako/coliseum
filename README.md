@@ -30,6 +30,16 @@ Xtramint vs BAK_PAK (not sure when)
 - [Previous Beefs](HISTORY.md) (I will make a script to automate these, these will be out of date for a bit)
 - [Leaderboard](https://challonge.com/OCEDiscordBEEF)
 
+## WEIGHT CLASSES (Tekken Prowess)
+(by zer0kzero)
+
+    Heavyweight: 300k+
+    Cruiserweight: 240k-299k
+    Light Heavyweight: 195k-239k
+    Middleweight: 165k-194k
+    Welterweight: 130k-164k
+    Lightweight: 100k-129k
+    Featherweight: 0-99k
 
 ## STAFF MEMBER / KNOWN ENTITIES ##
 
