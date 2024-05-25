@@ -55,3 +55,4 @@ Xtramint vs BAK_PAK (not sure when)
 
 ## Banner ##
 ![the banner](scrote.png)
+_banner artiste: mirkoi_
