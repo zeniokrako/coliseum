@@ -50,7 +50,7 @@ Xtramint vs BAK_PAK (not sure when)
 - xtramint - Beefmaster
 - zerostresslevel - Village Tomato
 - db2 - Just there watching
-- bpg111 - oooooooooooooooooo
+- bpg111 - Arena Usher
 - dripmaster - yellow rank
 
 ## Banner ##
